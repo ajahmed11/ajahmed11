@@ -8,26 +8,26 @@
 </p>
 
 ### 🛡️ Cybersecurity & Digital Forensics Specialist
-[span_0](start_span)I am a motivated Cybersecurity and Digital Forensics student at **The British College** (UWE)[span_0](end_span). [span_1](start_span)I have solid theoretical and practical knowledge in network security, SOC/SIEM operations, and digital investigations[span_1](end_span). [span_2](start_span)I specialize in deep-dive forensic analysis on Windows systems and vulnerability assessment[span_2](end_span).
+Motivated student at **The British College** (UWE) with practical expertise in **SOC/SIEM operations**, **Penetration Testing**, and **Digital Investigations**. I specialize in vulnerability assessment and forensic analysis on Windows systems.
 
 - 🔭 **Current Focus:** Active Directory (AD) Creation & Attack simulations, Kerberos exploitation, and SOC monitoring.
-- [span_3](start_span)🕵️ **Forensics Expertise:** Memory forensics with **Volatility** and timeline analysis of NTFS artifacts[span_3](end_span).
-- [span_4](start_span)🚀 **ECA Leadership:** Serving as District Deputy Chief (2024-2025) for Leo District Council 325 S, Nepal[span_4](end_span).
+- 🕵️ **Forensics Expertise:** Memory forensics with **Volatility**, timeline analysis of NTFS artifacts, and tools like **Autopsy** and **FTK**.
+- 🚀 **ECA Leadership:** Serving as District Deputy Chief (2024-2025) for Leo District Council 325 S, Nepal.
 
 ---
 
 ### 📂 Top Repositories & Projects:
 
 - **[Symmetric Encryption Analysis](https://github.com/ajahmed11/symmetric-encryption)** 🔐
-  - Lab using OpenSSL, exploring Encryption Modes, Padding, and Brute Forcing techniques.
+  - Lab using OpenSSL to explore Encryption Modes, Padding, and Brute Forcing.
 - **[Wireshark Network Analysis](https://github.com/ajahmed11/wireshark-Analysis)** 🌐
   - Packet capture analysis and network traffic troubleshooting.
 - **[Digital Forensics - Hunter_xp](https://github.com/ajahmed11/Digital_Forensics)** 🕵️‍♂️
-  - [span_5](start_span)[span_6](start_span)Analysis of a Windows image file focusing on artifact extraction and evidence preservation[span_5](end_span)[span_6](end_span).
+  - Forensic analysis of a Windows image file focusing on artifact extraction.
 - **[Buffer Overflow Lab](https://github.com/ajahmed11/Buffer_0verflow)** 💻
-  - Exploring memory corruption vulnerabilities and exploitation.
-- **IoT Smart Health Watch** ⌚
-  - Wearable prototype using ESP32 to monitor body temperature, pulse, and heart rate.
+  - Research and exploitation of memory corruption vulnerabilities.
+- **[OS Concepts Lab](https://github.com/ajahmed11/os_concepts_lab)** ⚙️
+  - Practical implementation of process management and system calls.
 
 ---
 
@@ -35,25 +35,24 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Forensics** | **[span_7](start_span)[span_8](start_span)Volatility**, **Belkasoft**, **FTK Imager**, **Autopsy**, **HxD**, **Registry Viewer**, **Recuva**, **DB Browser for SQLite**[span_7](end_span)[span_8](end_span) |
-| **SOC / SIEM** | **[span_9](start_span)[span_10](start_span)Wazuh**, **Splunk**, **Security Onion**, **Elastic Security (ELK Stack)**[span_9](end_span)[span_10](end_span) |
-| **Penetration Testing** | **[span_11](start_span)[span_12](start_span)Burp Suite**, **Metasploit**, **Nmap**, **Kerberos**, **Active Directory (AD) Attacks**[span_11](end_span)[span_12](end_span) |
-| **Networking** | **[span_13](start_span)[span_14](start_span)[span_15](start_span)Cisco Packet Tracer**, **CCNA Standards (VLANs, Routing/Switching)**[span_13](end_span)[span_14](end_span)[span_15](end_span) |
-| **Development** | [span_16](start_span)[span_17](start_span)![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)[span_16](end_span)[span_17](end_span) |
-| **Databases** | **[span_18](start_span)MySQL**, **PostgreSQL**, **Firebase**, **MongoDB**[span_18](end_span) |
+| **Forensics** | Volatility, Belkasoft, FTK Imager, Autopsy, HxD, Registry Viewer |
+| **SOC / SIEM** | Wazuh, Splunk, Security Onion, Elastic Security (ELK Stack) |
+| **Cybersecurity** | Burp Suite, Metasploit, Nmap, Active Directory (AD) Attacks |
+| **Networking** | Cisco Packet Tracer, CCNA Standards (VLANs, Routing/Switching) |
+| **Programming** | Python, C++, Linux Fundamentals, MySQL, MongoDB |
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Activity:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajahmed11&show_icons=true&theme=radical" alt="Stats" />
+  <br>
   <img src="https://github-profile-trophy.vercel.app/?username=ajahmed11&theme=radical&column=4" alt="Trophies" />
 </p>
 
 ---
 
 ### 📫 Contact Me:
-- **[span_19](start_span)Email:** [shidiquie.786@gmail.com](mailto:shidiquie.786@gmail.com)[span_19](end_span)
+- **Email:** shidiquie.786@gmail.com
 - **LinkedIn:** [ajaj-ahmed-a610872ab](https://www.linkedin.com/in/ajaj-ahmed-a610872ab)
--
 -
