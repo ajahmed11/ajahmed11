@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ajaj%20Ahmed&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ajaj%20Ahmed&fontSize=75&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -12,33 +12,32 @@
 ---
 
 ### 🛡️ Cybersecurity & Digital Forensics Specialist
-I am a motivated Cybersecurity student at **The British College** (UWE), currently in my 6th semester. I possess a deep focus on **SOC/SIEM operations**, **Penetration Testing**, and **Digital Investigations**.
+I am a motivated Cybersecurity student at **The British College** (UWE) in my 6th semester. I specialize in **SOC/SIEM operations**, **Penetration Testing**, and **Digital Investigations**.
 
-- 🔭 **Current Focus:** Active Directory (AD) Creation & Attack simulations, Kerberos exploitation, and SOC monitoring.
-- 🕵️ **Forensics Expertise:** Skilled in Windows forensics, including memory dumps with **Volatility**, timeline analysis, and artifact extraction (Registry, Prefetch, Event Logs).
+- 🕵️ **Forensics Expertise:** Skilled in memory forensics with **Volatility**, NTFS timeline analysis, and artifact extraction (Registry, Prefetch, Event Logs).
+- ⚔️ **Security Focus:** Active Directory (AD) creation, attack simulations, and **Kerberos** exploitation.
 - 🚀 **Leadership:** Serving as **District Deputy Chief** (2024-2025) for Leo District Council 325 S, Nepal.
 
 ---
 
-### 📂 Featured Technical Projects:
+### 📂 Featured Technical Repositories:
 
-| Project | Key Technologies & Description |
+| Project | Core Technologies & Focus |
 | :--- | :--- |
 | **[Symmetric Encryption](https://github.com/ajahmed11/symmetric-encryption)** | OpenSSL, Encryption Modes, Padding, and Brute Forcing. |
 | **[Wireshark Analysis](https://github.com/ajahmed11/wireshark-Analysis)** | Deep-dive network traffic troubleshooting and packet-level analysis. |
-| **[Digital Forensics](https://github.com/ajahmed11/Digital_Forensics)** | Forensic investigation of Windows image files and artifact preservation. |
+| **[Digital Forensics](https://github.com/ajahmed11/Digital_Forensics)** | Analysis of Windows image files (Hunter_xp) and evidence preservation. |
 | **[Buffer Overflow Lab](https://github.com/ajahmed11/Buffer_0verflow)** | Exploring memory corruption, stack smashing, and exploitation. |
-| **[OS Concepts Lab](https://github.com/ajahmed11/os_concepts_lab)** | Process management, CPU scheduling, and system calls. |
+| **[OS Concepts Lab](https://github.com/ajahmed11/os_concepts_lab)** | Process management, CPU scheduling, and system-level troubleshooting. |
 
 ---
 
-### 🛠️ Professional Toolkit:
+### 🛠️ Professional Arsenal:
 
-- **Security & Pentesting:** ![Nmap](https://img.shields.io/badge/Nmap-4F5D95?style=flat-square) ![Metasploit](https://img.shields.io/badge/Metasploit-0000FF?style=flat-square) **Burp Suite**, **Kerberos Attacks**, **Active Directory Lab**
-- **Forensics Tools:** **Volatility**, **Belkasoft**, **FTK Imager**, **Autopsy**, **HxD**, **Registry Viewer**, **Recuva**, **DB Browser**
-- **SIEM/SOC:** **Wazuh**, **Splunk**, **Security Onion**, **Elastic Security (ELK Stack)**
-- **Networking:** **Cisco Packet Tracer**, **CCNA Standards**, **VLAN Configuration**
-- **Development:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- **Forensics & Analysis:** **Volatility**, **Belkasoft**, **FTK Imager**, **Autopsy**, **HxD**, **Registry Viewer**, **Recuva**, **Wireshark**.
+- **SIEM / SOC Operations:** **Wazuh**, **Splunk**, **Security Onion**, **Elastic Security (ELK Stack)**.
+- **Security & Networking:** **Burp Suite**, **Metasploit**, **Nmap**, **Cisco Packet Tracer (CCNA Standards)**.
+- **Development:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black).
 
 ---
 
